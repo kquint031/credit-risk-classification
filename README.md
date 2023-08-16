@@ -21,3 +21,5 @@ To evaluate the performance of the model, the balance accuracy score was calcula
 ## Summary
 The machine learning model number 2 seems to perform best due to its higher accuracy and classification scores, however it is important to consider the context and purpose of the model's use to determine which model to choose for performance purposes. The performance depends on the problem we are trying to solve, in this case is for prediction of the health of loans. For the credit risk classification I would choose model 1 for the realistic distribution reason. However I would consider using model 2 as a hybrid for training and validation purposes. 
 
+## References
+Code and analysis developed in support from UCB in class examples and lectures.
